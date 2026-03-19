@@ -29,4 +29,4 @@ I am a Full Stack Developer with a strong focus on building scalable systems. I 
 ### 📫 Connect with me:
 
 - **Email:** gcastorina234@gmail.com
-- **Linkedin:** linkedin.com/in/gianluca-castorina
+- **Linkedin:** https://www.linkedin.com/in/gianluca-castorina
